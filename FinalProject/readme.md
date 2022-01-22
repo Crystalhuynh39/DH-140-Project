@@ -17,6 +17,13 @@ With this information, we can later see whether these patterns match typical hum
 
 We are using the IMDB Dataset of 50K Movie Reviews Large Movie Review Dataset from kaggle which contains 50K movie reviews. This dataset can be used for binary sentiment classification as it contains highly polar movie reviews for training and testing.
 
+https://gist.github.com/mkulakowski2/4289441
+
+https://gist.github.com/mkulakowski2/4289437
+
+In order to indentify the positive and negative words, we can easily scan the web for premade datasets. These two shown above are datasets containing negative and 
+positive words, respectively, that we can use to analyze our movie reviews with. 
+
 ## Project Scope
 The intended analysis is to see what are the common "positive" and "negative" words being used and how often they are used. The resulting visualizations for this would probably be something like a bar chart highlighting the ten most common "positive" and "negative" words and how often they appear in the dataset. We can also how long "positive" reviews are compared to "negative" reviews by checking the word count for each review and plotting the total word count frequency in a separate bar chart. Another analysis we could do is categorize common "positive" and "negative" words to see how polarizing they really are and plot this on another bar chart to visualize the scale of how positive "positive" reviews are and how negative "negative" reviews are. 
 
