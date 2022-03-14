@@ -1,0 +1,7 @@
+requests
+bs4
+pandas
+matplotlib
+nltk
+numpy
+wordcloud
