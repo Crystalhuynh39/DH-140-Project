@@ -4,6 +4,9 @@
 
 #### 3/14/2022 | Crystal Huynh, Larry Qu, Nelson Truong
 
+To get an interactive version of this, click here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crystalhuynh39/DH-140-Project/HEAD)
+
 ### Introduction
 
 #### Project Overview
